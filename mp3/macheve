@@ -1,1 +1,10 @@
-
+{
+  "welcome":
+  {
+    "mp3": "macheve/in"
+  },
+  "goodbye":
+  {
+    "mp3": "macheve/out"
+  }
+}
